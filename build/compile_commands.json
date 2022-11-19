@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/anas/projects/Game_c/build",
+  "command": "/usr/bin/gcc -g -o CMakeFiles/Game.dir/main.c.o -c /home/anas/projects/Game_c/main.c",
+  "file": "/home/anas/projects/Game_c/main.c"
+},
+{
+  "directory": "/home/anas/projects/Game_c/build",
+  "command": "/usr/bin/gcc -g -o CMakeFiles/Game.dir/engine/Physics/physics.c.o -c /home/anas/projects/Game_c/engine/Physics/physics.c",
+  "file": "/home/anas/projects/Game_c/engine/Physics/physics.c"
+}
+]

@@ -1,0 +1,5 @@
+/home/anas/projects/Game_c/build/CMakeFiles/Game.dir
+/home/anas/projects/Game_c/build/CMakeFiles/package.dir
+/home/anas/projects/Game_c/build/CMakeFiles/package_source.dir
+/home/anas/projects/Game_c/build/CMakeFiles/edit_cache.dir
+/home/anas/projects/Game_c/build/CMakeFiles/rebuild_cache.dir

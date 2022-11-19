@@ -1,0 +1,4 @@
+# ninja log v5
+100	148	1668785066394131736	Game	c00f54729c3e8e08
+2	130	1668770484340827989	CMakeFiles/Game.dir/engine/Physics/physics.c.o	2ebd4b0dfac9386f
+1	100	1668785066346131735	CMakeFiles/Game.dir/main.c.o	29fb234d670a39b7

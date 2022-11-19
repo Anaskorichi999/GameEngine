@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(Game VERSION 0.1.0)
+
+add_executable(Game main.c engine/Physics/physics.c )
+add_compile_options(-O1 )
+target_link_libraries(Game raylib)
+target_link_libraries(Game m)
+set(CPACK_PROJECT_NAME ${PROJECT_NAME})
+set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
+include(CPack)
